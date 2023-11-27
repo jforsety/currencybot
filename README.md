@@ -4,5 +4,7 @@
 Увидеть список всех доступных валют: /values
 Узнать о создателе бота можно командой: /about
 #
+![image](https://github.com/jforsety/currencybot/assets/112902554/b5d9cc97-67d9-4c1a-a434-aaa8a8a5f4c9)
+
 
 
